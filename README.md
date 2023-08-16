@@ -4,5 +4,6 @@ Unos unicodes que puedes disfrutar visitame para ver mas.
  
 |               Name               |   Platform   | Character | Unicode |                     In game                    |
 |:--------------------------------:|:------------:|:---------:|:-------:|:----------------------------------------------:|
-|             U1                   |     All      |          |  -      |[PiggyCrates](https://github.com/vNozell/Unicodes-v1/assets/142453410/c361f270-b771-48d3-a90e-1546b65bfb40)
+|             U1                   |     All      |          |  -      |![PiggyCrates](https://github.com/vNozell/Unicodes-v1/assets/142453410/b064d8e4-a391-4700-86f5-7458e86152a5)
+
 
