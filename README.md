@@ -1,5 +1,7 @@
 # Unicodes-v1
 Unos unicodes que puedes disfrutar visitame para ver mas.
+# Precaucion
+No uses estos unicdes con otros ,podrias haber cruces de codigos.
 > <h2>List Unicode</h2>
  
 |               Name               |   Platform   | Character | Unicode |                     In game                    |
