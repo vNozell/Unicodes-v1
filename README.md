@@ -2,7 +2,7 @@
 # Unicodes-v1
 Unos unicodes que puedes disfrutar y usar para tu servidor , visitame para ver mas.
 # Precaucion
-No uses estos unicodes con otros ,podrias haber cruces de codigos.
+No uses estos unicodes con otros ,podrias haber cruces de codigos y podria salir mal.
 > <h2>List Unicode</h2>
  
 |               Name               |   Platform   | Character | Unicode |                     In game                    |
