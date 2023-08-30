@@ -7,7 +7,7 @@ No uses estos unicodes con otros ,podrias haber cruces de codigos y podria salir
  
 |               Name               |   Platform   | Character | Unicode |                     In game                    |
 |:--------------------------------:|:------------:|:---------:|:-------:|:----------------------------------------------:|
-|             U1                   |     All      |          |  -      |![background](https://github.com/vNozell/Unicodes-v1/assets/142453410/f13ffe54-fd16-48ed-ac89-f7124f6c26b0)
+|             U1                   |     All      |     g     |  -      |![background](https://github.com/vNozell/Unicodes-v1/assets/142453410/f13ffe54-fd16-48ed-ac89-f7124f6c26b0)
 
 
 
